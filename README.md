@@ -230,7 +230,8 @@ Key observations include:
 
 ## Author
 
-**[Your Name]**
+**Syed Ayaan Hassan Shah**
+**Muhammad Luqman Waseem**
 
 FAST National University of Computer and Emerging Sciences
 
